@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>PSTFIL</string>
+		<key>miasto</key>
+		<string>Łódź</string>
+		<key>nazwa</key>
+		<string>Państwowa Wyższa Szkoła Filmowa</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>AKAGUH</string>
+		<key>miasto</key>
+		<string>Kraków</string>
+		<key>nazwa</key>
+		<string>Akademia Górniczo-Hutnicza</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>AMUWRO</string>
+		<key>miasto</key>
+		<string>Wrocław</string>
+		<key>nazwa</key>
+		<string>Akademia Muzyczna</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>AMUMUZ</string>
+		<key>miasto</key>
+		<string>Kraków</string>
+		<key>nazwa</key>
+		<string>Akademia Muzyczna</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>POLSLK</string>
+		<key>miasto</key>
+		<string>Gliwice</string>
+		<key>nazwa</key>
+		<string>Politechnika Śląska</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>UNIWAR</string>
+		<key>miasto</key>
+		<string>Warszawa</string>
+		<key>nazwa</key>
+		<string>Uniwersytet Warszawski</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>UNIPOZ</string>
+		<key>miasto</key>
+		<string>Poznań</string>
+		<key>nazwa</key>
+		<string>Uniwersytet im. Adama Mickiewicza</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>UNIWRO</string>
+		<key>miasto</key>
+		<string>Wrocław</string>
+		<key>nazwa</key>
+		<string>Uniwersytet Wrocławski</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>UNIMED</string>
+		<key>miasto</key>
+		<string>Warszawa</string>
+		<key>nazwa</key>
+		<string>Uniwersytet Medyczny</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>UAMSIE</string>
+		<key>miasto</key>
+		<string>Poznań</string>
+		<key>nazwa</key>
+		<string>Uniwersytet Przyrodniczy</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>UMLUBL</string>
+		<key>miasto</key>
+		<string>Lublin</string>
+		<key>nazwa</key>
+		<string>Uniwersytet Medyczny</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>AWFWAR</string>
+		<key>miasto</key>
+		<string>Warszawa</string>
+		<key>nazwa</key>
+		<string>Akademia Wychowania Fizycznego</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>UMKLUB</string>
+		<key>miasto</key>
+		<string>Lublin</string>
+		<key>nazwa</key>
+		<string>Uniwersytet Marii Curie-Skłodowskiej</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>UNIGDA</string>
+		<key>miasto</key>
+		<string>Gdańsk</string>
+		<key>nazwa</key>
+		<string>Uniwersytet Gdański</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>UNISWD</string>
+		<key>miasto</key>
+		<string>Wrocław</string>
+		<key>nazwa</key>
+		<string>Uniwersytet Przyrodniczy</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>UNIOPL</string>
+		<key>miasto</key>
+		<string>Opole</string>
+		<key>nazwa</key>
+		<string>Uniwersytet Opolski</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>UNICZE</string>
+		<key>miasto</key>
+		<string>Częstochowa</string>
+		<key>nazwa</key>
+		<string>Uniwersytet Humanistyczno-Przyrodniczy</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>AWFPOZ</string>
+		<key>miasto</key>
+		<string>Poznań</string>
+		<key>nazwa</key>
+		<string>Akademia Wychowania Fizycznego</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>UMLODZ</string>
+		<key>miasto</key>
+		<string>Łódź</string>
+		<key>nazwa</key>
+		<string>Uniwersytet Medyczny</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>POLRZE</string>
+		<key>miasto</key>
+		<string>Rzeszów</string>
+		<key>nazwa</key>
+		<string>Politechnika Rzeszowska</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>POLPOZ</string>
+		<key>miasto</key>
+		<string>Poznań</string>
+		<key>nazwa</key>
+		<string>Politechnika Poznańska</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>ASTKRK</string>
+		<key>miasto</key>
+		<string>Kraków</string>
+		<key>nazwa</key>
+		<string>Akademia Sztuk Pięknych</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>SGHMWZ</string>
+		<key>miasto</key>
+		<string>Warszawa</string>
+		<key>nazwa</key>
+		<string>Szkoła Główna Handlowa</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>UMWROC</string>
+		<key>miasto</key>
+		<string>Wrocław</string>
+		<key>nazwa</key>
+		<string>Uniwersytet Medyczny</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>POLKRK</string>
+		<key>miasto</key>
+		<string>Kraków</string>
+		<key>nazwa</key>
+		<string>Politechnika Krakowska</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>UNISWE</string>
+		<key>miasto</key>
+		<string>Szczecin</string>
+		<key>nazwa</key>
+		<string>Uniwersytet Szczeciński</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>POLWAR</string>
+		<key>miasto</key>
+		<string>Warszawa</string>
+		<key>nazwa</key>
+		<string>Politechnika Warszawska</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>UMGDAN</string>
+		<key>miasto</key>
+		<string>Gdańsk</string>
+		<key>nazwa</key>
+		<string>Gdański Uniwersytet Medyczny</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>UMKRAK</string>
+		<key>miasto</key>
+		<string>Kraków</string>
+		<key>nazwa</key>
+		<string>Uniwersytet Medyczny</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>AMULOD</string>
+		<key>miasto</key>
+		<string>Łódź</string>
+		<key>nazwa</key>
+		<string>Akademia Muzyczna</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>POLWRO</string>
+		<key>miasto</key>
+		<string>Wrocław</string>
+		<key>nazwa</key>
+		<string>Politechnika Wrocławska</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>AWFGDA</string>
+		<key>miasto</key>
+		<string>Gdańsk</string>
+		<key>nazwa</key>
+		<string>Akademia Wychowania Fizycznego i Sportu</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>UNILOD</string>
+		<key>miasto</key>
+		<string>Łódź</string>
+		<key>nazwa</key>
+		<string>Uniwersytet Łódzki</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>UNIJAG</string>
+		<key>miasto</key>
+		<string>Kraków</string>
+		<key>nazwa</key>
+		<string>Uniwersytet Jagielloński</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>AWFWRC</string>
+		<key>miasto</key>
+		<string>Wrocław</string>
+		<key>nazwa</key>
+		<string>Akademia Wychowania Fizycznego</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>UNIRZS</string>
+		<key>miasto</key>
+		<string>Rzeszów</string>
+		<key>nazwa</key>
+		<string>Uniwersytet Rzeszowski</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>AMUGDA</string>
+		<key>miasto</key>
+		<string>Gdańsk</string>
+		<key>nazwa</key>
+		<string>Akademia Muzyczna</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>POLGDA</string>
+		<key>miasto</key>
+		<string>Gdańsk</string>
+		<key>nazwa</key>
+		<string>Politechnika Gdańska</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>KULKAT</string>
+		<key>miasto</key>
+		<string>Lublin</string>
+		<key>nazwa</key>
+		<string>Katolicki Uniwersytet Lubelski</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>UNISBC</string>
+		<key>miasto</key>
+		<string>Zielona Góra</string>
+		<key>nazwa</key>
+		<string>Uniwersytet Zielonogórski</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>UNIEKO</string>
+		<key>miasto</key>
+		<string>Kraków</string>
+		<key>nazwa</key>
+		<string>Uniwersytet Ekonomiczny</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>AMUWAW</string>
+		<key>miasto</key>
+		<string>Warszawa</string>
+		<key>nazwa</key>
+		<string>Uniwersytet Muzyczny Fryderyka Chopina</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>POLLOD</string>
+		<key>miasto</key>
+		<string>Łódź</string>
+		<key>nazwa</key>
+		<string>Politechnika Łódzka</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>ASTLOD</string>
+		<key>miasto</key>
+		<string>Łódź</string>
+		<key>nazwa</key>
+		<string>Akademia Sztuk Pięknych</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>UNIWPR</string>
+		<key>miasto</key>
+		<string>Olsztyn</string>
+		<key>nama</key>
+		<string>Uniwersytet Warmińsko-Mazurski</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>ASTWAR</string>
+		<key>miasto</key>
+		<string>Warszawa</string>
+		<key>nazwa</key>
+		<string>Akademia Sztuk Pięknych</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>AWFKRK</string>
+		<key>miasto</key>
+		<string>Kraków</string>
+		<key>nazwa</key>
+		<string>Akademia Wychowania Fizycznego</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>UMRTOR</string>
+		<key>miasto</key>
+		<string>Toruń</string>
+		<key>nazwa</key>
+		<string>Uniwersytet Mikołaja Kopernika</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>UMPOZN</string>
+		<key>miasto</key>
+		<string>Poznań</string>
+		<key>nazwa</key>
+		<string>Uniwersytet Medyczny</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>UNIKAT</string>
+		<key>miasto</key>
+		<string>Katowice</string>
+		<key>nazwa</key>
+		<string>Uniwersytet Śląski</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>UNIBYA</string>
+		<key>miasto</key>
+		<string>Białystok</string>
+		<key>nazwa</key>
+		<string>Uniwersytet w Białymstoku</string>
+	</dict>
+</array>
+</plist>

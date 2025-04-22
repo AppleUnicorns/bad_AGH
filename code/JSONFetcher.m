@@ -1,11 +1,4 @@
-//
-//  fetcher.m
-//  CTF-dev
-//
-//  Created by Pati on 22/04/2025.
-//
-
-#import "fetcher.h"
+#import "JSONFetcher.h"
 
 @implementation JSONFetcher
 

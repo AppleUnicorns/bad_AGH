@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>nazwa</key>
+		<string>Modelowanie przepływów turbulentnych w kanałach o zmiennej geometrii</string>
+		<key>sponsor</key>
+		<string>Fluid Dynamics Research</string>
+		<key>uczelnia</key>
+		<string>POLGDA</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Opracowanie nowych materiałów kompozytowych dla przemysłu lotniczego</string>
+		<key>sponsor</key>
+		<string>Aerospace Materials Corp</string>
+		<key>uczelnia</key>
+		<string>POLGDA</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Zastosowanie grafenu w budowie ultracienkich ogniw fotowoltaicznych</string>
+		<key>sponsor</key>
+		<string>Graphene Energy</string>
+		<key>uczelnia</key>
+		<string>POLWRO</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Wpływ polityki fiskalnej na innowacyjność małych i średnich przedsiębiorstw</string>
+		<key>sponsor</key>
+		<string>Fiscal Policy Institute</string>
+		<key>uczelnia</key>
+		<string>SGHMWZ</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Wpływ diety ketogenicznej na funkcje poznawcze u pacjentów z chorobą Alzheimera</string>
+		<key>sponsor</key>
+		<string>Ketogenic Research Institute</string>
+		<key>uczelnia</key>
+		<string>UMGDAN</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Projektowanie inteligentnych tkanin dla zastosowań medycznych</string>
+		<key>sponsor</key>
+		<string>Smart Textile Solutions</string>
+		<key>uczelnia</key>
+		<string>POLLOD</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Analiza komparatywna tożsamości narodowej w literaturze polskiej i niemieckiej XX wieku</string>
+		<key>sponsor</key>
+		<string>Cultural Heritage Institute</string>
+		<key>uczelnia</key>
+		<string>UNIWRO</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Wykorzystanie metod sztucznej inteligencji w diagnostyce wad materiałowych</string>
+		<key>sponsor</key>
+		<string>AI Material Inspection</string>
+		<key>uczelnia</key>
+		<string>POLSLK</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Optymalizacja algorytmów głębokiego uczenia w rozpoznawaniu wzorców na obrazach satelitarnych</string>
+		<key>sponsor</key>
+		<string>SatelliteAI Tech</string>
+		<key>uczelnia</key>
+		<string>UNIWAR</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Optymalizacja metod wytwarzania wodoru z wykorzystaniem energii słonecznej</string>
+		<key>sponsor</key>
+		<string>Solar Hydrogen Tech</string>
+		<key>uczelnia</key>
+		<string>POLSLK</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Analiza wydajności przetwarzania danych w systemach edge computing</string>
+		<key>sponsor</key>
+		<string>EdgeTech Systems</string>
+		<key>uczelnia</key>
+		<string>POLWAR</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Analiza mechanizmów epigenetycznych w rozwoju chorób autoimmunologicznych</string>
+		<key>sponsor</key>
+		<string>Epigenetic Research Corp</string>
+		<key>uczelnia</key>
+		<string>UMKLUB</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Nowoczesne techniki konserwacji dzieł sztuki z wykorzystaniem nanotechnologii</string>
+		<key>sponsor</key>
+		<string>Art Conservation Tech</string>
+		<key>uczelnia</key>
+		<string>ASTKRK</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Wpływ treningu interwałowego na regenerację mięśni u sportowców wyczynowych</string>
+		<key>sponsor</key>
+		<string>Sports Performance Institute</string>
+		<key>uczelnia</key>
+		<string>AWFKRK</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Wykorzystanie uczenia maszynowego w analizie obrazów medycznych</string>
+		<key>sponsor</key>
+		<string>Medical AI Systems</string>
+		<key>uczelnia</key>
+		<string>UMLUBL</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Wykorzystanie nowych polimerów biodegradowalnych w medycynie regeneracyjnej</string>
+		<key>sponsor</key>
+		<string>EcoMed Materials</string>
+		<key>uczelnia</key>
+		<string>UNIJAG</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Wpływ fal radiowych na wzrost roślin doniczkowych w zamkniętych pomieszczeniach</string>
+		<key>sponsor</key>
+		<string>BioTech Solutions</string>
+		<key>uczelnia</key>
+		<string>UNIJAG</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Wykorzystanie algorytmów genetycznych w optymalizacji ruchu miejskiego</string>
+		<key>sponsor</key>
+		<string>Smart Traffic Systems</string>
+		<key>uczelnia</key>
+		<string>POLPOZ</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Bioróżnorodność mikroorganizmów glebowych w obszarach po rekultywacji</string>
+		<key>sponsor</key>
+		<string>Soil Biodiversity Research</string>
+		<key>uczelnia</key>
+		<string>UNIOPL</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Zastosowanie sztucznej inteligencji w prognozowaniu zmian klimatycznych w skali mikro</string>
+		<key>sponsor</key>
+		<string>ClimateAI Systems</string>
+		<key>uczelnia</key>
+		<string>UNIJAG</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Opracowanie nowych katalizatorów do produkcji wodoru z biomasy</string>
+		<key>sponsor</key>
+		<string>HydroGen Solutions</string>
+		<key>uczelnia</key>
+		<string>POLWRO</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Biomarkery narażenia na mikroplastik w organizmie człowieka</string>
+		<key>sponsor</key>
+		<string>EcoHealth Research</string>
+		<key>uczelnia</key>
+		<string>UNIGDA</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Opracowanie biodegradowalnych nanokapsuł do kontrolowanego uwalniania leków</string>
+		<key>sponsor</key>
+		<string>NanoPharma Solutions</string>
+		<key>uczelnia</key>
+		<string>UMLODZ</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Nowe metody wykrywania biomarkerów nowotworowych w płynach ustrojowych</string>
+		<key>sponsor</key>
+		<string>Cancer Detection Systems</string>
+		<key>uczelnia</key>
+		<string>UMPOZN</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Analiza mechanizmów uszkodzenia DNA pod wpływem promieniowania kosmicznego</string>
+		<key>sponsor</key>
+		<string>Space Radiation Research</string>
+		<key>uczelnia</key>
+		<string>UNIWAR</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Wpływ rytmów dobowych na skuteczność farmakoterapii chorób przewlekłych</string>
+		<key>sponsor</key>
+		<string>Chronotherapy Research</string>
+		<key>uczelnia</key>
+		<string>UMKRAK</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Wpływ pola magnetycznego na krystalizację związków organicznych</string>
+		<key>sponsor</key>
+		<string>Magnetic Materials Corp</string>
+		<key>uczelnia</key>
+		<string>AKAGUH</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Wykorzystanie komórek macierzystych w regeneracji uszkodzonego rdzenia kręgowego</string>
+		<key>sponsor</key>
+		<string>Stem Cell Therapeutics</string>
+		<key>uczelnia</key>
+		<string>UMWROC</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Badanie wpływu zanieczyszczenia powietrza na funkcje poznawcze u dzieci w wieku szkolnym</string>
+		<key>sponsor</key>
+		<string>AirQuality Research</string>
+		<key>uczelnia</key>
+		<string>UNIPOZ</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Zastosowanie technologii rzeczywistości rozszerzonej w nauczaniu anatomii</string>
+		<key>sponsor</key>
+		<string>AR Medical Education</string>
+		<key>uczelnia</key>
+		<string>UMKRAK</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Wykorzystanie druku 3D w konstrukcji implantowalnych urządzeń medycznych</string>
+		<key>sponsor</key>
+		<string>3D Medical Print</string>
+		<key>uczelnia</key>
+		<string>POLWAR</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Nowe podejścia terapeutyczne w leczeniu opornych na antybiotyki zakażeń szpitalnych</string>
+		<key>sponsor</key>
+		<string>Antibiotic Resistance Solutions</string>
+		<key>uczelnia</key>
+		<string>UNIMED</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Biomarkery stresu psychicznego u studentów podczas sesji egzaminacyjnej</string>
+		<key>sponsor</key>
+		<string>MentalHealth Pro</string>
+		<key>uczelnia</key>
+		<string>UNIJAG</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Neuronowe korelaty percepcji czasu w warunkach izolacji społecznej</string>
+		<key>sponsor</key>
+		<string>NeuroTime Systems</string>
+		<key>uczelnia</key>
+		<string>UNIPOZ</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Synteza nowych materiałów nadprzewodzących w temperaturze pokojowej</string>
+		<key>sponsor</key>
+		<string>SuperConduct Solutions</string>
+		<key>uczelnia</key>
+		<string>UNIWAR</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Etyczne aspekty wykorzystania technologii AI w podejmowaniu decyzji medycznych</string>
+		<key>sponsor</key>
+		<string>AI Ethics Institute</string>
+		<key>uczelnia</key>
+		<string>KULKAT</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Wpływ wypalenia zawodowego na błędy medyczne wśród personelu medycznego</string>
+		<key>sponsor</key>
+		<string>Healthcare Wellbeing Institute</string>
+		<key>uczelnia</key>
+		<string>UNIMED</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Modele matematyczne przewidywania rozprzestrzeniania się chorób zakaźnych w aglomeracjach miejskich</string>
+		<key>sponsor</key>
+		<string>Epidemic Control Systems</string>
+		<key>uczelnia</key>
+		<string>UNIKAT</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Zastosowanie dronów w monitorowaniu zmian środowiskowych w obszarach chronionych</string>
+		<key>sponsor</key>
+		<string>Environmental Drone Systems</string>
+		<key>uczelnia</key>
+		<string>UNIRZS</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Wykorzystanie blockchain w zarządzaniu łańcuchem dostaw w przemyśle spożywczym</string>
+		<key>sponsor</key>
+		<string>Blockchain Food Systems</string>
+		<key>uczelnia</key>
+		<string>UNIEKO</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Podróże w czasie i przestrzeni w ujęciu praktycznym z elementami stabilizacji stanów pośrednich z wykorzystaniem dużych modeli językowych (LLM)</string>
+		<key>sponsor</key>
+		<string>JJIT - Just JSON Intelligence Technologies</string>
+		<key>uczelnia</key>
+		<string>UNIJAG</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Wpływ interferonów typu I na odpowiedź immunologiczną w infekcjach wirusowych</string>
+		<key>sponsor</key>
+		<string>Viral Defense Systems</string>
+		<key>uczelnia</key>
+		<string>UMKLUB</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Wykorzystanie nanocząstek srebra w oczyszczaniu wody pitnej</string>
+		<key>sponsor</key>
+		<string>NanoWater Systems</string>
+		<key>uczelnia</key>
+		<string>AKAGUH</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Właściwości kwantowe cząsteczek wody w stanie nadkrytycznym</string>
+		<key>sponsor</key>
+		<string>Quantum Dynamics</string>
+		<key>uczelnia</key>
+		<string>UNIJAG</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Rola mikrobioty jelitowej w patomechanizmie chorób neurodegeneracyjnych</string>
+		<key>sponsor</key>
+		<string>NeuroBio Research</string>
+		<key>uczelnia</key>
+		<string>UNIWAR</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Wpływ architektury miejskiej na poziom stresu u mieszkańców</string>
+		<key>sponsor</key>
+		<string>Urban Psychology Institute</string>
+		<key>uczelnia</key>
+		<string>POLKRK</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Wpływ dostępności transportu publicznego na jakość życia w małych miastach</string>
+		<key>sponsor</key>
+		<string>Urban Transport Solutions</string>
+		<key>uczelnia</key>
+		<string>UNIOPL</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Efektywność ekonomiczna zielonej transformacji w sektorze energetycznym</string>
+		<key>sponsor</key>
+		<string>Green Energy Analytics</string>
+		<key>uczelnia</key>
+		<string>SGHMWZ</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Modelowanie procesów erozji gleby w terenach górskich z wykorzystaniem GIS</string>
+		<key>sponsor</key>
+		<string>GeoAnalysis Pro</string>
+		<key>uczelnia</key>
+		<string>AKAGUH</string>
+	</dict>
+	<dict>
+		<key>nazwa</key>
+		<string>Wpływ zanieczyszczenia mikroplastikiem na ekosystemy wodne</string>
+		<key>sponsor</key>
+		<string>Ocean Protection Institute</string>
+		<key>uczelnia</key>
+		<string>UNIGDA</string>
+	</dict>
+</array>
+</plist>
